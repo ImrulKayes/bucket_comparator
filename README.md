@@ -50,5 +50,5 @@ the app will do the following
 
 You can also download the data of the selected section using "Download data" button.
 
-Cheers!
+Cheers!!!
 
