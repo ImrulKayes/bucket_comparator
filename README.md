@@ -7,6 +7,14 @@ It does statistical tests, decides whether two samples are from the same distrib
 Running
 =======
 
+Installing Required Libraries
+-----------------------------
+
+All required python packages are listed in bucket_comparator/requirements.txt.
+Go to bucket_comparator folder and install them using following command.
+
+pip install -r requirements.txt
+
 
 Bokeh Server
 ------------
