@@ -1,6 +1,8 @@
 The bucket_comparator app creates an interactive visualization for a set of section data. 
 It does statistical tests, decides whether two samples are from the same distribution and shows percentile breakdown.
 
+![Alt text]app_screenhot "Bucket comparator")
+
 Running
 =======
 
